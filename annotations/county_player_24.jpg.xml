@@ -1,0 +1,79 @@
+<annotation>
+<folder>image_download_folder</folder>
+<filename>county_player_24.jpg</filename>
+<path>image_download_folder\county_player_24.jpg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>3787</width>
+	<height>2567</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1049.196828358209</xmin>
+		<xmax>1886.4347014925374</xmax>
+		<ymin>402.5281980742779</ymin>
+		<ymax>2079.729023383769</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>402.7220149253731</xmin>
+		<xmax>1137.5130597014925</xmax>
+		<ymin>14.123796423658872</ymin>
+		<ymax>1783.1292984869324</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>2041.8712686567164</xmin>
+		<xmax>2970.9580223880594</xmax>
+		<ymin>1740.757909215956</ymin>
+		<ymax>2319.83356258597</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>2826.119402985075</xmin>
+		<xmax>3730.477611940298</xmax>
+		<ymin>116.5213204951857</ymin>
+		<ymax>2316.302613480055</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>ball</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>2589.431902985075</xmin>
+		<xmax>2903.837686567164</xmax>
+		<ymin>879.2063273727648</ymin>
+		<ymax>1175.8060522696012</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,79 @@
+<annotation>
+<folder>image_download_folder</folder>
+<filename>county_player_94.jpg</filename>
+<path>image_download_folder\county_player_94.jpg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>1200</width>
+	<height>1200</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>435.76341127922973</xmin>
+		<xmax>922.6960110041266</xmax>
+		<ymin>4.951856946354883</ymin>
+		<ymax>599.1746905089409</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>430.81155433287483</xmin>
+		<xmax>1021.7331499312243</xmax>
+		<ymin>633.837689133425</ymin>
+		<ymax>1190.0962861072903</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>137.00137551581844</xmin>
+		<xmax>506.7400275103164</xmax>
+		<ymin>600.8253094910591</ymin>
+		<ymax>1196.6987620357634</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>ball</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>463.8239339752407</xmin>
+		<xmax>594.222833562586</xmax>
+		<ymin>455.5708390646492</ymin>
+		<ymax>584.3191196698762</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>ball</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>524.8968363136177</xmin>
+		<xmax>680.0550206327373</xmax>
+		<ymin>967.2627235213205</ymin>
+		<ymax>1124.0715268225583</ymax>
+	</bndbox>
+</object>
+</annotation>

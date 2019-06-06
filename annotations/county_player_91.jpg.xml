@@ -1,0 +1,79 @@
+<annotation>
+<folder>image_download_folder</folder>
+<filename>county_player_91.jpg</filename>
+<path>image_download_folder\county_player_91.jpg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>1024</width>
+	<height>768</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>606.5799793601651</xmin>
+		<xmax>793.6264189886481</xmax>
+		<ymin>9.507565337001376</ymin>
+		<ymax>367.62585969738655</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>136.32198142414862</xmin>
+		<xmax>410.02270381836945</xmax>
+		<ymin>411.9944979367263</ymin>
+		<ymax>758.4924346629987</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>16.90815273477812</xmin>
+		<xmax>131.03818369453043</xmax>
+		<ymin>507.07015130674</ymin>
+		<ymax>755.3232462173315</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>ball</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>224.0330237358101</xmin>
+		<xmax>321.2549019607843</xmax>
+		<ymin>627.4993122420908</ymin>
+		<ymax>721.5185694635488</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>ball</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>908.813209494324</xmin>
+		<xmax>1014.4891640866873</xmax>
+		<ymin>159.51581843191195</ymin>
+		<ymax>246.14030261348006</ymax>
+	</bndbox>
+</object>
+</annotation>

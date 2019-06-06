@@ -1,0 +1,79 @@
+<annotation>
+<folder>image_download_folder</folder>
+<filename>county_player_19.jpg</filename>
+<path>image_download_folder\county_player_19.jpg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>1024</width>
+	<height>946</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>111.89834815756035</xmin>
+		<xmax>316.1778907242694</xmax>
+		<ymin>119.71389270976617</ymin>
+		<ymax>761.2242090784043</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>347.4053367217281</xmin>
+		<xmax>547.7814485387547</xmax>
+		<ymin>35.1334250343879</ymin>
+		<ymax>836.6960110041265</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>560.7928843710292</xmin>
+		<xmax>752.0609911054638</xmax>
+		<ymin>31.229711141678127</ymin>
+		<ymax>763.8266850068776</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>745.5552731893266</xmin>
+		<xmax>969.3519695044473</xmax>
+		<ymin>66.36313617606602</ymin>
+		<ymax>858.8170563961486</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>ball</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>822.322744599746</xmin>
+		<xmax>923.8119440914868</xmax>
+		<ymin>294.07977991746907</ymin>
+		<ymax>394.27510316368637</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,40 @@
+<annotation>
+<folder>image_download_folder</folder>
+<filename>county_player_251.jpg</filename>
+<path>image_download_folder\county_player_251.jpg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>2598</width>
+	<height>1516</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>571.7686746987952</xmin>
+		<xmax>1287.5228915662651</xmax>
+		<ymin>10.426409903713893</ymin>
+		<ymax>1499.3177441540577</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1642.2698795180725</xmin>
+		<xmax>2040.8385542168676</xmax>
+		<ymin>963.4002751031637</ymin>
+		<ymax>1513.9147180192572</ymax>
+	</bndbox>
+</object>
+</annotation>

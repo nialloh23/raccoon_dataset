@@ -1,0 +1,92 @@
+<annotation>
+<folder>image_download_folder</folder>
+<filename>county_player_120.jpg</filename>
+<path>image_download_folder\county_player_120.jpg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>600</width>
+	<height>494</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>120.0</xmin>
+		<xmax>260.0</xmax>
+		<ymin>81.0</ymin>
+		<ymax>446.0</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>245.99999999999997</xmin>
+		<xmax>380.0</xmax>
+		<ymin>45.0</ymin>
+		<ymax>461.0</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>371.0</xmin>
+		<xmax>508.0</xmax>
+		<ymin>18.0</ymin>
+		<ymax>466.0</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>177.0</xmin>
+		<xmax>260.0</xmax>
+		<ymin>13.0</ymin>
+		<ymax>88.0</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>7.0</xmin>
+		<xmax>140.0</xmax>
+		<ymin>3.0</ymin>
+		<ymax>482.0</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>ball</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>345.0</xmin>
+		<xmax>406.0</xmax>
+		<ymin>165.0</ymin>
+		<ymax>226.0</ymax>
+	</bndbox>
+</object>
+</annotation>

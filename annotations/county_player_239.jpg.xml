@@ -1,0 +1,79 @@
+<annotation>
+<folder>image_download_folder</folder>
+<filename>county_player_239.jpg</filename>
+<path>image_download_folder\county_player_239.jpg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>2320</width>
+	<height>1596</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1450.0</xmin>
+		<xmax>2188.1818181818185</xmax>
+		<ymin>254.65749656121042</ymin>
+		<ymax>1385.248968363136</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>298.78787878787875</xmin>
+		<xmax>1017.1969696969697</xmax>
+		<ymin>226.11829436038516</ymin>
+		<ymax>1347.9284731774414</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>804.0909090909091</xmin>
+		<xmax>1122.651515151515</xmax>
+		<ymin>147.08665749656123</ymin>
+		<ymax>724.4566712517194</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>114.24242424242424</xmin>
+		<xmax>303.1818181818182</xmax>
+		<ymin>256.8528198074278</ymin>
+		<ymax>676.1595598349381</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>ball</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1696.060606060606</xmin>
+		<xmax>1902.5757575757575</xmax>
+		<ymin>623.4718019257222</ymin>
+		<ymax>803.4883081155433</ymax>
+	</bndbox>
+</object>
+</annotation>

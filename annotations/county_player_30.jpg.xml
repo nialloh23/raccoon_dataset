@@ -1,0 +1,79 @@
+<annotation>
+<folder>image_download_folder</folder>
+<filename>county_player_30.jpg</filename>
+<path>image_download_folder\county_player_30.jpg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>1000</width>
+	<height>1000</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>23.383768913342504</xmin>
+		<xmax>430.5364511691884</xmax>
+		<ymin>16.506189821182943</ymin>
+		<ymax>492.4346629986245</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>48.143053645116915</xmin>
+		<xmax>403.0261348005502</xmax>
+		<ymin>528.1980742778542</ymin>
+		<ymax>951.856946354883</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>583.2187070151307</xmin>
+		<xmax>942.2283356258597</xmax>
+		<ymin>557.0839064649243</ymin>
+		<ymax>950.4814305364512</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>543.3287482806052</xmin>
+		<xmax>954.6079779917469</xmax>
+		<ymin>19.257221458046768</ymin>
+		<ymax>466.29986244841814</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>ball</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>28.88583218707015</xmin>
+		<xmax>192.57221458046766</xmax>
+		<ymin>312.242090784044</ymin>
+		<ymax>480.05502063273724</ymax>
+	</bndbox>
+</object>
+</annotation>

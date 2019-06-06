@@ -1,0 +1,79 @@
+<annotation>
+<folder>image_download_folder</folder>
+<filename>county_player_93.jpg</filename>
+<path>image_download_folder\county_player_93.jpg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>3202</width>
+	<height>2235</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>236.84341978866473</xmin>
+		<xmax>928.9183477425553</xmax>
+		<ymin>95.30261348005502</ymin>
+		<ymax>2185.811554332875</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>787.4274735830932</xmin>
+		<xmax>1377.998078770413</xmax>
+		<ymin>15.371389270976616</ymin>
+		<ymax>2124.325997248968</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1230.3554274735832</xmin>
+		<xmax>2143.8943323727185</xmax>
+		<ymin>169.0852819807428</ymin>
+		<ymax>2191.9601100412656</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1700.9663784822287</xmin>
+		<xmax>2417.648414985591</xmax>
+		<ymin>172.1595598349381</ymin>
+		<ymax>2130.4745529573593</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>2177.7291066282423</xmin>
+		<xmax>3097.4197886647453</xmax>
+		<ymin>3.0742778541953233</ymin>
+		<ymax>2108.9546079779916</ymax>
+	</bndbox>
+</object>
+</annotation>

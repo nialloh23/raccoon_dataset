@@ -1,0 +1,53 @@
+<annotation>
+<folder>image_download_folder</folder>
+<filename>county_player_272.jpg</filename>
+<path>image_download_folder\county_player_272.jpg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>642</width>
+	<height>360</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>59.0</xmin>
+		<xmax>207.0</xmax>
+		<ymin>16.0</ymin>
+		<ymax>300.0</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>player</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>363.0</xmin>
+		<xmax>554.0</xmax>
+		<ymin>5.0</ymin>
+		<ymax>332.0</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>ball</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>278.0</xmin>
+		<xmax>329.99999999999994</xmax>
+		<ymin>266.0</ymin>
+		<ymax>313.0</ymax>
+	</bndbox>
+</object>
+</annotation>
